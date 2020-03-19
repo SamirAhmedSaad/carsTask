@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarsApp</string>
+    <string name="noConnection">No internet connection</string>
+    <string name="ok">Ok</string>
+    <string name="technology">Technology</string>
+    <string name="New">New</string>
+    <string name="used">Used</string>
+    <string name="cars">Cars</string>
+</resources>
